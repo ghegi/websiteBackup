@@ -176,10 +176,6 @@ footer svg.svg-inline--fa {
     
 }
 
-footer svg.svg-inline--fa:hover {
-    font-size: 2rem;
-}
-
 hr.socket
 {
     border-top: .2rem solid #666b71;
